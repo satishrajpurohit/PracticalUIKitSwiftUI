@@ -1,6 +1,6 @@
 # PracticalUIKitSwiftUI
 
-### SwiftUIAssignment
+### UIKitAssignment
 
 ## This project provides a dynamic image carousel, a list of items, a search feature, and a floating action button (FAB) with a bottom sheet for statistics. The app is designed to handle any number of items and images dynamically, with a built-in feature to filter the list through a search bar and visualize statistics in a bottom sheet.
 
